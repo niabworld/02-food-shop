@@ -63,3 +63,7 @@
   background-color: #142328;
   color: white;
 }
+
+.actions button:active {
+  border-color: rgb(255, 255, 255);
+}

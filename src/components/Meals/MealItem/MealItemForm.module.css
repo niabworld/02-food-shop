@@ -18,3 +18,7 @@
   background-color: #036428;
   border-color: #036437;
 }
+
+.form button:active {
+  border-color: rgb(255, 255, 255);
+}
